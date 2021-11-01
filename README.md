@@ -1,7 +1,7 @@
 # Eva AST Interpreter 
 Created during the Building an Interpreter from Scratch Course by Dimitri Soshnikov
 
-Implemented an itnerepreter for a python-like language using Javascript. This fully implemented programming language, known as Eva, supports:
+Implemented an interpreter for a python-like language using Javascript. This fully implemented programming language, known as Eva, supports:
 - Control Flow
 - Syntactic Sugar
 - Recursive calls
