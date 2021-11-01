@@ -22,4 +22,4 @@ To run the project:
     - example: ./bin/eva -e '(print((lambda (x) (* x x)) 2))'
 - ./bin/eva -f ./filename.eva
     - this runs an eva file that is in the main eva directory
-    -example: ./bin/eva -f ./test.eva
+    - example: ./bin/eva -f ./test.eva
